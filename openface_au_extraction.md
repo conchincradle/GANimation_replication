@@ -28,17 +28,17 @@ FaceLandmarkImg.exe
 
 等程序运行完毕后，会在目录下生成processed文件夹，里面包含有处理完（加上特征点与注视方向等内容）的照片和保存了处理数据（特征点坐标、AU强度等）的csv文件等。
 
-******************************************我的*******************************************
+## ******************************************我的*******************************************
 
-##download in to files in computer，download four scale files into model\patch_experts
+## download in to files in computer，download four scale files into model\patch_experts
 
-##put images you want to process into samples\imgs
+## put images you want to process into samples\imgs
 
-##open powershell on current directory
+## open powershell on current directory
 
-##run .\FaceLandmarkImg.exe -fdir .\samples\imgs -aus    (aus is for GANimation, we only need AU vectors)
+## run .\FaceLandmarkImg.exe -fdir .\samples\imgs -aus    (aus is for GANimation, we only need AU vectors)
 
-##then the csv files will be output in processed file
+## then the csv files will be output in processed file
 
-##put the csv files in files in GANimation program for next step to output an aus_openface.pkl file
+## put the csv files in files in GANimation program for next step to output an aus_openface.pkl file
 
