@@ -1,6 +1,6 @@
 # GANimation_replication
-## I implemented GANimation model and transferred six basic emotions to Nicola's face(a robot).
-## results-----sadness, disgust, happiness, anger, fear, surprise
+- I implemented GANimation model and transferred six basic emotions to Nicola's face(a robot).
+- results-----sadness, disgust, happiness, anger, fear, surprise
 <div align=center><img src="https://user-images.githubusercontent.com/33627638/166638822-9a1bd241-cdeb-40fd-ad76-cf0a4213dcaa.jpg" width="150" height="150" /></div>
 <p align="center">Nicola original</p>
 <div align=center><img src="https://user-images.githubusercontent.com/33627638/166640918-e3ec69ee-5021-4a64-b4a0-4f02d7bf08ad.jpg" width="1050" height="150" /></div>
