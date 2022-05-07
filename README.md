@@ -1,6 +1,7 @@
 # GANimation_replication
 - I implemented GANimation model and transferred six basic emotions to Nikola's face(a robot).
 - results-----sadness, disgust, happiness, anger, fear, surprise
+- ( I implemented a Generative Adversarial Networks model (called GANimation), which is used to generate continuous facial expressions images. I used the pre-trained model and input the image of the robot's face (named Nikola) with Action Units extracted by Openface, and then the program transferred the facial expression of another image to the robot's face. Through this program, I got the robot's images of different emotions, they may help the robot to get more natural facial expressions like humans. )
 <div align=center><img src="https://user-images.githubusercontent.com/33627638/166638822-9a1bd241-cdeb-40fd-ad76-cf0a4213dcaa.jpg" width="150" height="150" /></div>
 <p align="center">Nikola original</p>
 <div align=center><img src="https://user-images.githubusercontent.com/33627638/166640918-e3ec69ee-5021-4a64-b4a0-4f02d7bf08ad.jpg" width="1050" height="150" /></div>
