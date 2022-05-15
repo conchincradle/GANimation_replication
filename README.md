@@ -28,3 +28,7 @@
 <p align="center">Nikola ----> surprise</p>
 <div align=center><img src="https://user-images.githubusercontent.com/33627638/166650467-5751faf9-d426-4017-bd3c-5d7e69512f28.gif" width="150" height="150" /></div>
 <p align="center">Nikola ----> surprise gif</p>
+- I don't have time to improve this model and I think it will be interesting if it can be applied to cat facial expressions.
+- [The Cat Facial Action Coding System (CatFACS)](https://animalfacs.com/catfacs_new)
+<div align=center><img src="https://user-images.githubusercontent.com/33627638/168470884-37eb72a9-bea4-4cf7-8a3c-f00aa017e98d.png" width="150" height="150" /></div>
+<p align="center"> CAT FACS </p>
